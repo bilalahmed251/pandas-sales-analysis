@@ -1,0 +1,48 @@
+# pandas-sales-analysis
+Pandas + Seaborn project for retail sales visualization
+# Pandas + Seaborn Sales Analysis 📊
+
+This project uses **Pandas**, **Matplotlib**, and **Seaborn** to analyze and visualize a sample retail sales dataset. It's part of my ongoing data analysis portfolio where I recreate one project in **Excel**, **Power BI**, and **Python**.
+
+---
+
+## 🔍 Objective
+
+Analyze sales, profit, and product performance from a dummy dataset and generate insights using Python.
+
+---
+
+## 🛠️ Tools & Libraries
+
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Jupyter Notebook (optional)
+- Excel (data source)
+
+---
+
+## 📊 Visualizations Included
+
+1. **Bar Chart** – Total Sales by Product  
+2. **Line Chart** – Profit Over Time  
+3. **Pie Chart** – Product Distribution  
+4. **Heatmap** – Avg Discount by Product & Customer Type 
+
+---
+
+## 🧠 What I Learned
+
+- Grouping and aggregating data with `groupby()`
+- Creating visuals using Seaborn and Matplotlib
+- Using pivot tables with Pandas
+- Cleaning and formatting date columns
+- Adding data safely for testing visuals
+
+---
+
+## 🙌 Connect
+
+This is part of my goal to build one project per week in 3 tools.  
+Let’s connect on [LinkedIn](https://linkedin.com/in/yourname)!
